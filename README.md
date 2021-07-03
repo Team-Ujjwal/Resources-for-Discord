@@ -5,7 +5,7 @@
 
 <h3>Ujjwal Chaurasia</h3>
 
-- Business Email: `technogamerzofficial@gmail.com` 
+- Business Email: [Click Here](mailto:technogamerzofficial@gmail.com)!  
 
 - Youtube: 
     - [Techno Gamerz](https://www.youtube.com/c/TechnoGamerzOfficial)
@@ -30,7 +30,7 @@
 
 <h3>TG Network</h3>
 
-- Contact Us: `support@tgnetwork.in` 
+- Contact Us: [Click Here](mailto:support@tgnetwork.in)! 
 
 - Website: [Click Here](https://tgnetwork.in/)!
 
