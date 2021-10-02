@@ -1,39 +1,25 @@
 <div align="center">
-<img src="https://i.imgur.com/p9kh4Pc.png" width="128px" style="max-width:100%;">
-<h1>Resources - Team Ujjwal</h1>
+<img src="https://user-images.githubusercontent.com/91751516/135685643-9bb42ed8-93b5-472d-b624-df0876ec155b.jpeg" width="128px" style="max-width:100%;">
+<h1>Resources - Team Mr.Graphics</h1>
 </div>
 
-<h3>Ujjwal Chaurasia</h3>
+<h3>Mr.Graphics</h3>
 
-- Business Email: [Click Here](mailto:technogamerzofficial@gmail.com)!  
+- Business Email: [Click Here](mailto:problemfix64@gmail.com)!  
 
 - Youtube: 
-    - [Techno Gamerz](https://www.youtube.com/c/TechnoGamerzOfficial)
+    - [Mr.Graphics](https://youtube.com/channel/UCx2en8Jpyxh1OgnO7JIsovg)
 
-    - [Ujjwal Gamer](https://www.youtube.com/c/UjjwalGamer)
+  
 
-- Twitter: [@UjjwalGamer](https://twitter.com/UjjwalGamer) 
+- Twitter: [@Mr.Graphics09](https://twitter.com/TGYT60148991?s=09) 
 
 - Instagram: 
-    - [@ujjwalgamer](https://www.instagram.com/ujjwalgamer)
+    - [@Mr.Graphics_2006](https://instagram.com/mr.graphics_2006?utm_medium=copy_link)
+ 
 
-    - [@techno_gamerz](https://www.instagram.com/techno_gamerz/) 
+- Website: [Click Here](www.tgeditz.gq)!
 
-- Facebook:
-    - [Techno Gamerz](https://www.facebook.com/Technogamerz) 
+- Official Discord: [Join Now](https://discord.gg/TKrHh8QTxm)!
 
-    - [Ujjwal Gamer](https://www.facebook.com/ujjwalgamer)
 
-- Website: [Click Here](https://technogamerz.in)!
-
-- Official Discord: [Join Now](https://discord.gg/ujjwalgamer)!
-
-<h3>TG Network</h3>
-
-- Contact Us: [Click Here](mailto:support@tgnetwork.in)! 
-
-- Website: [Click Here](https://tgnetwork.in/)!
-
-- Game Store: [Check Out Now](https://store.tgnetwork.in)!
-
-- TG Network Discord: [Join Now](https://discord.gg/QXW5VWPXFf)!
